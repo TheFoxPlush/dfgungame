@@ -1,0 +1,6 @@
+{
+  "parent":"custom/desert_eagle",
+  "textures": {
+  "1": "custom/desert_eagle_gold"
+}
+}

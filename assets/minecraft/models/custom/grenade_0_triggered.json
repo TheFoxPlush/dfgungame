@@ -1,0 +1,7 @@
+{
+  "parent":"custom/grenade_0_intact",
+  "textures": {
+  "0": "custom/grenade_0_triggered",
+  "particle":"custom/grenade_0_triggered"
+}
+}

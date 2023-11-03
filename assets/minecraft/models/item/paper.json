@@ -1,0 +1,12 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/paper"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/parachutes/parachute"},
+        {"predicate":{"custom_model_data":2},"model":"custom/parachutes/parachute_green"},
+        {"predicate":{"custom_model_data":3},"model":"custom/parachutes/parachute_blue"},
+	{"predicate":{"custom_model_data":5000},"model":"minecraft:item/paper"}
+    ]
+}

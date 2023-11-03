@@ -1,0 +1,7 @@
+{
+  "parent":"custom/action_shotgun",
+  "textures": {
+  "default": "custom/action_shotgun_1",
+  "particle":"custom/action_shotgun_1"
+}
+}

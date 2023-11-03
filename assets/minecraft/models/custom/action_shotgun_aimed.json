@@ -1,0 +1,21 @@
+{
+	"parent":"custom/action_shotgun",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -11, 0],
+			"translation": [1.25, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [1, -1, -2]
+		},
+		"gui": {
+			"rotation": [-150.25, 45, -180],
+			"translation": [0.5, -1.5, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"head": {
+			"translation": [0, 0, -12.25],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

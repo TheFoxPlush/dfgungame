@@ -1,0 +1,28 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/blue_candle"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/flamethrower"},
+		{"predicate":{"custom_model_data":2},"model":"custom/glock_18"},
+		{"predicate":{"custom_model_data":3},"model":"custom/famas"},
+		{"predicate":{"custom_model_data":4},"model":"custom/p90"},
+		{"predicate":{"custom_model_data":5},"model":"custom/nova"},
+		{"predicate":{"custom_model_data":6},"model":"custom/m4"},
+		{"predicate":{"custom_model_data":7},"model":"custom/m4_reinforced"},
+		{"predicate":{"custom_model_data":8},"model":"custom/desert_eagle"},
+		{"predicate":{"custom_model_data":9},"model":"custom/desert_eagle_gold"},
+		{"predicate":{"custom_model_data":10},"model":"custom/purple_revolver"},
+		{"predicate":{"custom_model_data":11},"model":"custom/r8_revolver"},
+		{"predicate":{"custom_model_data":12},"model":"custom/awp"},
+		{"predicate":{"custom_model_data":13},"model":"custom/shotgun"},
+		{"predicate":{"custom_model_data":14},"model":"custom/usp"},
+		{"predicate":{"custom_model_data":15},"model":"custom/action_shotgun"},
+		{"predicate":{"custom_model_data":16},"model":"custom/action_shotgun_recharge"},
+		{"predicate":{"custom_model_data":17},"model":"custom/action_shotgun_gold"},
+		{"predicate":{"custom_model_data":18},"model":"custom/action_shotgun_gold_recharge"},
+		{"predicate":{"custom_model_data":19},"model":"custom/action_shotgun_dark"},
+		{"predicate":{"custom_model_data":20},"model":"custom/action_shotgun_dark_recharge"}
+    ]
+}

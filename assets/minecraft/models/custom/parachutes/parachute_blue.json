@@ -1,0 +1,6 @@
+{
+  "parent":"custom/parachutes/parachute",
+  "textures": {
+  "0": "custom/parachute/parachute_blue"
+}
+}

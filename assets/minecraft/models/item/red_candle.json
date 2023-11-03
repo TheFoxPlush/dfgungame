@@ -1,0 +1,14 @@
+{
+    "parent":"item/generated",
+    "textures": {
+		"layer0": "item/red_candle"
+	},
+    "overrides":[
+        {"predicate":{"custom_model_data":1},"model":"custom/bomb"},
+		{"predicate":{"custom_model_data":2},"model":"custom/grenade_0_intact"},
+		{"predicate":{"custom_model_data":3},"model":"custom/grenade_0_triggered"},
+		{"predicate":{"custom_model_data":4},"model":"custom/grenade_1_intact"},
+		{"predicate":{"custom_model_data":5},"model":"custom/grenade_1_triggered"}
+		
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent":"custom/m4",
+  "textures": {
+  "1": "custom/m4_reinforced",
+  "particle":"custom/m4_reinforced"
+}
+}

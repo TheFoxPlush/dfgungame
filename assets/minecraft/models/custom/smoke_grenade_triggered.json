@@ -1,0 +1,6 @@
+{
+  "parent":"custom/smoke_grenade_intact",
+  "textures": {
+  "1": "custom/smoke_grenade_triggered"
+}
+}

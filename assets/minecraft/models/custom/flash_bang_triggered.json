@@ -1,0 +1,6 @@
+{
+  "parent":"custom/flash_bang_intact",
+  "textures": {
+  "1": "custom/flash_bang_triggered"
+}
+}
