@@ -4,6 +4,7 @@
 		"layer0": "item/spruce_door"
 	},
     "overrides":[
-        {"predicate":{"custom_model_data":1},"model":"custom/rudder"}
+        {"predicate":{"custom_model_data":1},"model":"custom/decoration/rudder"},
+        {"predicate":{"custom_model_data":2},"model":"custom/decoration/sixtant"}
     ]
 }
