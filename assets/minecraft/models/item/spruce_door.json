@@ -5,6 +5,8 @@
 	},
     "overrides":[
         {"predicate":{"custom_model_data":1},"model":"custom/decoration/rudder"},
-        {"predicate":{"custom_model_data":2},"model":"custom/decoration/sixtant"}
+        {"predicate":{"custom_model_data":2},"model":"custom/decoration/sixtant"},
+        {"predicate":{"custom_model_data":3},"model":"custom/decoration/jar_of_ink"},
+        {"predicate":{"custom_model_data":4},"model":"custom/decoration/length_of_rope"}
     ]
 }

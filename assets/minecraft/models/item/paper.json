@@ -7,6 +7,15 @@
         {"predicate":{"custom_model_data":1},"model":"custom/parachutes/parachute"},
         {"predicate":{"custom_model_data":2},"model":"custom/parachutes/parachute_green"},
         {"predicate":{"custom_model_data":3},"model":"custom/parachutes/parachute_blue"},
+        {"predicate":{"custom_model_data":4},"model":"custom/parachutes/parachute_temple"},
+        {"predicate":{"custom_model_data":5},"model":"custom/parachutes/parachute_fox"},
+        {"predicate":{"custom_model_data":6},"model":"custom/parachutes/parachute_creeper"},
+        {"predicate":{"custom_model_data":7},"model":"custom/parachutes/parachute_snow_fox"},
+        {"predicate":{"custom_model_data":8},"model":"custom/parachutes/parachute_tnt"},
+        {"predicate":{"custom_model_data":9},"model":"custom/parachutes/parachute_wandering_trader"},
+        {"predicate":{"custom_model_data":10},"model":"custom/parachutes/parachute_flag_france"},
+        {"predicate":{"custom_model_data":11},"model":"custom/parachutes/parachute_flag_england"},
+        {"predicate":{"custom_model_data":12},"model":"custom/parachutes/parachute_flag_italy"},
 	{"predicate":{"custom_model_data":5000},"model":"minecraft:item/paper"}
     ]
 }

@@ -1,0 +1,7 @@
+{
+  "parent":"custom/parachutes/parachute_rainbow",
+  "textures": {
+  "0": "custom/parachute/parachute_sheep",
+  "1": "custom/parachute/parachute_sheep_overlay"
+}
+}

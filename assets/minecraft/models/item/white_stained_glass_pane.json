@@ -4,6 +4,9 @@
 		"layer0": "block/white_stained_glass"
 	},
     "overrides":[
-        {"predicate":{"custom_model_data":1},"model":"custom/isles/isle1"}
+        {"predicate":{"custom_model_data":1},"model":"custom/isles/isle1"},
+        {"predicate":{"custom_model_data":2},"model":"custom/isles/isle2"},
+        {"predicate":{"custom_model_data":3},"model":"custom/isles/isle3"},
+        {"predicate":{"custom_model_data":4},"model":"custom/isles/isle4"}
     ]
 }
